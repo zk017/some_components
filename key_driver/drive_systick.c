@@ -1,7 +1,6 @@
 #include <stdint.h>
 #include <string.h>
 #include "em_device.h"
-//#include "lvs_error.h"
 #include "drive_systick.h"
 
 

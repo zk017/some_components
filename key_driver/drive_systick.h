@@ -1,7 +1,7 @@
 #ifndef __DRIVE_SYSTICK_H__
 #define __DRIVE_SYSTICK_H__
 
-//#include "lvs_error.h"
+
 typedef void (*systick_cb)(void);
 
 #ifdef __cplusplus
